@@ -1,0 +1,12 @@
+C:\github\CatalogApp\CatalogApp.Domain\bin\Debug\net8.0\CatalogApp.Domain.deps.json
+C:\github\CatalogApp\CatalogApp.Domain\bin\Debug\net8.0\CatalogApp.Domain.dll
+C:\github\CatalogApp\CatalogApp.Domain\bin\Debug\net8.0\CatalogApp.Domain.pdb
+C:\github\CatalogApp\CatalogApp.Domain\obj\Debug\net8.0\CatalogApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\CatalogApp\CatalogApp.Domain\obj\Debug\net8.0\CatalogApp.Domain.AssemblyInfoInputs.cache
+C:\github\CatalogApp\CatalogApp.Domain\obj\Debug\net8.0\CatalogApp.Domain.AssemblyInfo.cs
+C:\github\CatalogApp\CatalogApp.Domain\obj\Debug\net8.0\CatalogApp.Domain.csproj.CoreCompileInputs.cache
+C:\github\CatalogApp\CatalogApp.Domain\obj\Debug\net8.0\CatalogApp.Domain.sourcelink.json
+C:\github\CatalogApp\CatalogApp.Domain\obj\Debug\net8.0\CatalogApp.Domain.dll
+C:\github\CatalogApp\CatalogApp.Domain\obj\Debug\net8.0\refint\CatalogApp.Domain.dll
+C:\github\CatalogApp\CatalogApp.Domain\obj\Debug\net8.0\CatalogApp.Domain.pdb
+C:\github\CatalogApp\CatalogApp.Domain\obj\Debug\net8.0\ref\CatalogApp.Domain.dll

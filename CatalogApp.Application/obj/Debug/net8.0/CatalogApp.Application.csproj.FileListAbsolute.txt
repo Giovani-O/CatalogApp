@@ -1,0 +1,16 @@
+C:\github\CatalogApp\CatalogApp.Application\bin\Debug\net8.0\CatalogApp.Application.deps.json
+C:\github\CatalogApp\CatalogApp.Application\bin\Debug\net8.0\CatalogApp.Application.dll
+C:\github\CatalogApp\CatalogApp.Application\bin\Debug\net8.0\CatalogApp.Application.pdb
+C:\github\CatalogApp\CatalogApp.Application\bin\Debug\net8.0\CatalogApp.Domain.dll
+C:\github\CatalogApp\CatalogApp.Application\bin\Debug\net8.0\CatalogApp.Domain.pdb
+C:\github\CatalogApp\CatalogApp.Application\obj\Debug\net8.0\CatalogApp.Application.csproj.AssemblyReference.cache
+C:\github\CatalogApp\CatalogApp.Application\obj\Debug\net8.0\CatalogApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\CatalogApp\CatalogApp.Application\obj\Debug\net8.0\CatalogApp.Application.AssemblyInfoInputs.cache
+C:\github\CatalogApp\CatalogApp.Application\obj\Debug\net8.0\CatalogApp.Application.AssemblyInfo.cs
+C:\github\CatalogApp\CatalogApp.Application\obj\Debug\net8.0\CatalogApp.Application.csproj.CoreCompileInputs.cache
+C:\github\CatalogApp\CatalogApp.Application\obj\Debug\net8.0\CatalogApp.Application.sourcelink.json
+C:\github\CatalogApp\CatalogApp.Application\obj\Debug\net8.0\CatalogA.5E8A571D.Up2Date
+C:\github\CatalogApp\CatalogApp.Application\obj\Debug\net8.0\CatalogApp.Application.dll
+C:\github\CatalogApp\CatalogApp.Application\obj\Debug\net8.0\refint\CatalogApp.Application.dll
+C:\github\CatalogApp\CatalogApp.Application\obj\Debug\net8.0\CatalogApp.Application.pdb
+C:\github\CatalogApp\CatalogApp.Application\obj\Debug\net8.0\ref\CatalogApp.Application.dll

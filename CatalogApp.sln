@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApp.API", "CatalogApp.API\CatalogApp.API.csproj", "{99E225E1-09BE-4E20-BA24-39D97CBE0CA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogApp.API", "CatalogApp.API\CatalogApp.API.csproj", "{99E225E1-09BE-4E20-BA24-39D97CBE0CA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApp.Domain", "CatalogApp.Domain\CatalogApp.Domain.csproj", "{84BC8825-CBB0-4AAB-A3D8-D85476AE3201}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogApp.Domain", "CatalogApp.Domain\CatalogApp.Domain.csproj", "{84BC8825-CBB0-4AAB-A3D8-D85476AE3201}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApp.Application", "CatalogApp.Application\CatalogApp.Application.csproj", "{0B76F3F4-6501-41CD-918D-B74CFDD819D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogApp.Application", "CatalogApp.Application\CatalogApp.Application.csproj", "{0B76F3F4-6501-41CD-918D-B74CFDD819D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApp.Infrastructure", "CatalogApp.Infrastructure\CatalogApp.Infrastructure.csproj", "{5D2CD725-81FD-4664-A1E6-6D9ADA78240B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogApp.Infrastructure", "CatalogApp.Infrastructure\CatalogApp.Infrastructure.csproj", "{5D2CD725-81FD-4664-A1E6-6D9ADA78240B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApp.CrossCutting", "CatalogApp.CrossCutting\CatalogApp.CrossCutting.csproj", "{B74EF736-1AA3-4095-88EE-00525CF96712}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogApp.CrossCutting", "CatalogApp.CrossCutting\CatalogApp.CrossCutting.csproj", "{B74EF736-1AA3-4095-88EE-00525CF96712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApp.Tests", "CatalogApp.Tests\CatalogApp.Tests.csproj", "{F6B5726B-D5C7-422D-9043-5217477DBE5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B74EF736-1AA3-4095-88EE-00525CF96712}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B74EF736-1AA3-4095-88EE-00525CF96712}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B74EF736-1AA3-4095-88EE-00525CF96712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B5726B-D5C7-422D-9043-5217477DBE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B5726B-D5C7-422D-9043-5217477DBE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B5726B-D5C7-422D-9043-5217477DBE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B5726B-D5C7-422D-9043-5217477DBE5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
